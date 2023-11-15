@@ -27,14 +27,14 @@ Calculate the accuracy, confusion and classification report by importing the req
 Obtain the graph. 
 
 ## Program:
-
+```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: KISHORE M
 RegisterNumber:212221043003 
 */
 
-```
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import optimize
